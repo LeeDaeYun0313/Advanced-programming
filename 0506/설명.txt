@@ -1,0 +1,1 @@
+stack ghc inputCnt.hs 를 치면 실행파일이 생성된다
